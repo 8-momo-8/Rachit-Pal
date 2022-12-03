@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=darkhub&no-frame=true" alt="Rachit-Pal"/></a>
+  <a href="https://github.com/8-momo-8/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=8-momo-8&theme=darkhub&no-frame=true" alt="Rachit-Pal"/></a>
 </p>
 
 
@@ -53,7 +53,7 @@
 
 <p align="center">
   <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/8-momo-8/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Rachit-Pal&theme=react-dark&hide_border=true">
   </a>
 </p>
