@@ -140,7 +140,7 @@
 <!--- S H O W   M O R E --->
 
 <h4 align="center">
-  <a href="https://github.com/Rachit-Pal?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/8-momo-8?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <br>
